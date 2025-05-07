@@ -66,7 +66,7 @@ g++ main.c -o main -lfreeglut -lopengl32 -lglu32
 ## Running
 
 ```sh
-./system_monitor.exe
+./main.exe
 ```
 
 ---
