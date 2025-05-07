@@ -9,7 +9,7 @@ A simple system monitor built with C++ and OpenGL/freeglut for Windows.
 - [MSYS2](https://www.msys2.org/) (Windows package manager)
 - OpenGL
 - freeglut
-- GCC (Mingw-w64 toolchain)
+- G++ (Mingw-w64 toolchain)
 
 ---
 
